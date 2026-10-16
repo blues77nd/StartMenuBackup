@@ -1,0 +1,19 @@
+# ---- 备份数据（个人布局数据，不建议上传）----
+backups/
+
+# ---- PyInstaller 构建产物 ----
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# ---- 虚拟环境 ----
+venv/
+.venv/
+
+# ---- 编辑器/系统 ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
